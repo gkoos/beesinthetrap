@@ -1,0 +1,23 @@
+{
+  "bees": {
+    "Queen": {
+      "number": 1,
+      "hp": 100,
+      "damage": 8,
+      "killEmAll": true
+    },
+    "Worker": {
+      "number": 5,
+      "hp": 75,
+      "damage": 10,
+      "killEmAll": false
+    },
+    "Drone": {
+      "number": 8,
+      "hp": 50,
+      "damage": 12,
+      "killEmAll": false
+    }
+  }
+
+}
